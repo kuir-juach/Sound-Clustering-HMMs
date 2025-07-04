@@ -15,8 +15,11 @@ This project explores unsupervised learning techniques to cluster an **unlabeled
 
 ## Project Structure
 ├──Capstone
+
     ├── Kuir Juach Kuir_hiddent_hiden_Markov_Model_capstone.pdf
+    
 ├── Kuir_clustering_assignment.ipynb # Main notebook
+
 
 ├── README.md #
 

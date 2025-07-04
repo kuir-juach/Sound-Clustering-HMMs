@@ -15,11 +15,31 @@ This project explores unsupervised learning techniques to cluster an **unlabeled
 
 ## Project Structure
 ├── Kuir_clustering_assignment.ipynb # Main notebook
-
-├── /audio_dataset/ #
-
 ├── README.md #
+├── Kuir Juach Kuir_hiddent_hiden_Markov_Model_capstone.pdf
 
+[link to the dataset](https://drive.google.com/drive/folders/1u3GA1PVKnx_ZN4nBEwZy75rq9huouAd_?usp=sharing)
+
+## Features
+- Audio Feature Extraction: Mel Spectrogram features using Librosa
+- Dimensionality Reduction: PCA and t-SNE for visualization
+- Clustering Algorithms: K-Means and DBSCAN
+- Performance Evaluation: Silhouette Score and Davies-Bouldin Index
+- Data Visualization: Comprehensive plots and analysis
+
+## Dependencies
+
+librosa>=0.8.0
+
+numpy>=1.21.0
+
+pandas>=1.3.0
+
+matplotlib>=3.4.0
+
+seaborn>=0.11.0
+
+scikit-learn>=1.0.0
 
 ## Feature Extraction & Data Loading
 

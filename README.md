@@ -16,11 +16,10 @@ This project explores unsupervised learning techniques to cluster an **unlabeled
 ## Project Structure
 ├── Kuir_clustering_assignment.ipynb # Main notebook
 
-├── /audio_dataset/ # Directory with audio files (if applicable)
+├── /audio_dataset/ #
 
-├── README.md # This file
+├── README.md #
 
-└── /outputs/ # Visualizations, plots, and evaluation results
 
 ## Feature Extraction & Data Loading
 
